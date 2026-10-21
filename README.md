@@ -1,9 +1,9 @@
 # Interoperability Course Portfolio
 **Submitted by:** Tbrown2920
 
-This repository contains the required development environment configurations and assignments for the course modules.
 
-## 🛠️ Required Environment Configurations
+
+
 
 ### 1. Anaconda Environment Profile
 * **Application:** Anaconda Navigator Profile
